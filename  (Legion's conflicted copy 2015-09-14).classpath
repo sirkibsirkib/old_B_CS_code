@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="UsefulClasses"/>
+	<classpathentry kind="src" path="Programs"/>
+	<classpathentry kind="src" path="PAD"/>
+	<classpathentry kind="src" path="NeuralNetworkThingy"/>
+	<classpathentry kind="src" path="Space"/>
+	<classpathentry kind="src" path="Emergence"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Christopher/Desktop/libUI2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/libUI.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
